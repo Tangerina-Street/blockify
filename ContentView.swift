@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Blockify
+//  Blockifydemo
 //
-//  Created by Sahiti Tangirala on 11/16/25.
+//  Created by Sahiti Tangirala on 11/17/25.
 //
 
 import SwiftUI
